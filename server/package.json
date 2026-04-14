@@ -13,6 +13,9 @@
     "@composio/core": "latest",
     "@opencode-ai/sdk": "latest",
     "dotenv": "^16.4.5",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "xlsx": "^0.18.5",
+    "better-sqlite3": "^9.4.3",
+    "multer": "^1.4.5-lts.1"
   }
 }
